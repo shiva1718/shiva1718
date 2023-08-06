@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shiva Sankar</h1>
-<h3 align="center">I am shiva, currently an undergraduate student, passionate about software developement and looking for internships</h3>
+<h3 align="center">I am shiva, currently an undergraduate student with an interest in software development.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva1718&label=Profile%20views&color=0e75b6&style=flat" alt="shiva1718" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva1718" alt="shiva1718" /></a> </p>
 
-- 🔭 I’m currently pursuing Information Technology at Sri Sairam Engineering College, Chennai.
+- 🔭 I’m pursuing Information Technology at Sri Sairam Engineering College, Chennai.
 - I have interest in both full stack development and data analytics.
 - 📫 You can reach me at **ms.shiva2019@gmail.com**
 
