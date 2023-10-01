@@ -58,3 +58,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva1718&show_icons=true&locale=en&layout=compact" alt="shiva1718" /></p>
 
 [//]: # (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva1718&show_icons=true&locale=en" alt="shiva1718" /></p>)
+
+[![An image of @shiva1718's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva1718)](https://holopin.io/@shiva1718)
