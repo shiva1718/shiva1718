@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Shiva Sankar</h1>
-<h3 align="center">currently a technical trainee @ Zoho Corporation.</h3>
+<h3 align="center">currently a Software developer @ Zoho Corporation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva1718&label=Profile%20views&color=0e75b6&style=flat" alt="shiva1718" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva1718&theme=radical" alt="shiva1718" /></a> </p>
